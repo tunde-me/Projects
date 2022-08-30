@@ -6,7 +6,7 @@ df -m
 echo "Check memory free space: "
 free
 echo "For realtime memory usage: "
-#top
+top
 echo "Check cpu statistics: "
 lscpu
 echo "Check uptime: "
